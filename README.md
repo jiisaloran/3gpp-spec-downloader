@@ -1,6 +1,6 @@
 ## Download 3GPP ETSI TS
  - sync3_download.py:
-Modernized to Python3 (i.e., sync_download.py)
+Piratized t’ sail alongside Python3, matey! 🏴‍☠️
 
 ## Set of Three Originals (Python2)
  - sync_download.py:
