@@ -3,6 +3,7 @@
 Piratized t’ sail alongside Python3, matey! 🏴‍☠️
 
 ## Set of Three Originals (Python2)
+Ref: [Nobler/3gpp-spec-downloader](https://github.com/Nobler/3gpp-spec-downloader)
  - sync_download.py:
 Directly download the pdf file using *retrieveFile()* when get its url.
  - async_download.py:
