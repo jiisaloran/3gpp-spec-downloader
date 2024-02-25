@@ -19,7 +19,7 @@ import urllib.request, urllib.error, urllib.parse
 
 host = 'http://www.etsi.org/'
 etsi_type_list = ('deliver/etsi_ts/', 'deliver/etsi_tr/')
-series = list(range(36, 39))
+series = list(range(21, 39))
 
 def log(tag, data):
     if type(data) == list:
