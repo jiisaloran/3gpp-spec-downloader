@@ -1,4 +1,9 @@
-## Three download ways
+## Download 3GPP ETSI TS
+ - sync3_download.py:
+Piratized t’ sail alongside Python3, matey! 🏴‍☠️
+
+## Set of Three Originals (Python2)
+Ref: [Nobler/3gpp-spec-downloader](https://github.com/Nobler/3gpp-spec-downloader)
  - sync_download.py:
 Directly download the pdf file using *retrieveFile()* when get its url.
  - async_download.py:
@@ -7,11 +12,11 @@ Use ***multiprocessing*** module, call *enqueueFilePathList()* instead of *retri
 Just save all of pdf files' urls into **url.txt**, then you can download them by following steps, copying urls, opening download software tools, and making a bulk download task.
 
 ## Set series to download
-For default setting, it will download pdf files from 21-series to 37-series:
+For default setting, it will download pdf files from 21-series to 38-series:
 ```
-series = range(21, 38)
+series = range(21, 39)
 ```
-Just change the series to what you want.
+Just change the series variable within the file to what you want.
 
 ## Pdf file url schema
 eg.
